@@ -1,0 +1,7 @@
+flask
+langchain
+chromadb
+sentence-transformers
+smolagents
+litellm
+python-dotenv
