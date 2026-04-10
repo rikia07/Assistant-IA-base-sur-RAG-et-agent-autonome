@@ -1,0 +1,18 @@
+[ Utilisateur ]
+        ↓
+[ Frontend - React ]
+        ↓
+[ Backend API - Flask ]
+        ↓
+[ Agent IA - smolagents ]
+        ↓
+ ┌─────────────────────────────┐
+ │        RAG System           │
+ │  - Retrieval (ChromaDB)     │
+ │  - Embeddings (MiniLM)      │
+ │  - Orchestration (LangChain)│
+ └─────────────────────────────┘
+        ↓
+[ Réponse générée (LLM - Gemini) ]
+        ↓
+[ Réponse structurée affichée ]
